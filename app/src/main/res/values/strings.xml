@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Zialga Launcher</string>
+
+    <string name="prompt_pin">Please Enter PIN</string>
+    <string name="prompt_no_pin">No PIN, Please Click OK</string>
+    <string name="label_banner_title">SDK Integration Usage</string>
+    <string name="label_banner_text">Demonstrate how to integrate SDK functions into your application</string>
+    <string name="label_param_detail">Parameter Detail</string>
+    <string name="label_no_data">No Data</string>
+    <string name="label_function">Function</string>
+    <string name="label_trading_status">App ready to be updated</string>
+    <string name="label_open_paxstore_client">View app detail from PAXSTORE client</string>
+    <string name="label_version_text">Current version: </string>
+    <string name="label_copyright_text">Copyright @ 2018 PAX All Rights Reserved</string>
+    <string name="label_ready_to_update">App could be updated by PAXSTORE app now.</string>
+    <string name="label_not_ready_to_update">App is busy, can not be updated by PAXSTORE app now.</string>
+    <string name="label_retrieveTerminalInfo">Retrieve Terminal Info</string>
+    <string name="label_button_retrieve">Retrieve</string>
+
+    <string name="prompt_base_amount">Enter Total Amount</string>
+    <string name="prompt_trace_no">Input Trace No.</string>
+    <string name="prompt_get_last">Click OK to Get Last Transaction</string>
+    <string name="prompt_tip">Tip</string>
+    <string name="amount_default">0</string>
+    <string name="placeholder">:)</string>
+
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="num_00">00</string>
+    <string name="num_000">000</string>
+
+
+    <string name="sec">s</string>
+    <string name="image_desc"> </string>
+    <string name="err_password">Wrong Password!</string>
+
+
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_print">Print</string>
+
+    <string name="wait_print">Printing, Please Wait&#8230;</string>
+    <string name="wait_process">Processing, Please Wait&#8230;</string>
+    <string name="wait_receipt_generate">Receipt generating, Please Wait&#8230;</string>
+    <string name="receipt_print_again">RE-PRINT</string>
+
+    <string name="traceNo">Trace No</string>
+    <string name="dateTime">Date/Time</string>
+    <string name="bukti">BUKTI PEMBAYARAN</string>
+    <string name="total">Total</string>
+    <string name="footer1">CASHLESS PAYMENT BY GOPAY</string>
+    <string name="footer2">POWERED BY SWI</string>
+    <string name="appVer">App Ver.</string>
+    <string name="receipt_stub_acquire">--ACQUIRER COPY--</string>
+    <string name="receipt_stub_merchant">--MERCHANT COPY--</string>
+    <string name="receipt_stub_customer">--CUSTOMER COPY--</string>
+    <string name="receipt_stub_user">--CARDHOLDER COPY--</string>
+    <string name="err_print_paper">Out of Paper&#8230;</string>
+    <string name="err_print_hot">Printer Overheat, Please Wait&#8230;</string>
+    <string name="err_print_voltage">Printer Voltage is Too Low</string>
+    <string name="please_snap_qr">Please Snap QR</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="ref_no">Ref. No</string>
+</resources>
